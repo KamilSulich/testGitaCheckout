@@ -9,7 +9,6 @@ namespace testGitaCheckout
             Console.WriteLine("Hello World!");
             //wersja pierwsza
             //wersja druga
-            //trzecia linijka
         }
     }
 }
